@@ -13,3 +13,4 @@ fields:
   label: Label
 pages:
 - hugo/content/posts/example.md
+- hugo/content/posts/I am a new post.md
