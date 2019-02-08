@@ -11,3 +11,5 @@ fields:
 - type: tag_list
   name: label
   label: Label
+pages:
+- hugo/content/posts/example.md
