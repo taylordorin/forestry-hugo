@@ -14,17 +14,17 @@ Hugo also offers powerful support for code snippets:
 package main
 import "fmt"
 func print_hi(name string) {
-  fmt.Println("Hi, ", name)
+fmt.Println("Hi, ", name)
 }
 
 func main() {
-  print_hi("Tom")
+print_hi("Tom")
 }
 //=> prints 'Hi, Tom' to STDOUT.
 {{< /highlight >}}
 
-Check out the [Hugo docs][hugo-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Hugo’s GitHub repo][hugo-gh]. If you have questions, you can ask them on [Hugo Community][hugo-community].
+Check out the [Hugo docs](https://gohugo.io/documentation/) for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Hugo’s GitHub repo](https://github.com/gohugoio/hugo). If you have questions, you can ask them on [Hugo Community](https://discourse.gohugo.io/).
 
-[hugo-docs]: https://gohugo.io/documentation/
-[hugo-gh]:   https://github.com/gohugoio/hugo
-[hugo-community]: https://discourse.gohugo.io/
+# I am a Headline
+
+![alt](hugo/static/img/2019/02/08/Colours1.PNG "Image title")
