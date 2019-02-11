@@ -7,7 +7,6 @@ sections:
 - type: document
   path: hugo/content/homepage
   label: Homepage
-  match: "**/*"
 - type: directory
   path: hugo/content/something
   label: Something
