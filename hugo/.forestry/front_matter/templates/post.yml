@@ -14,4 +14,3 @@ fields:
 pages:
 - hugo/content/posts/example.md
 - hugo/content/posts/I am a new post.md
-- hugo/content/something/Something test.md
