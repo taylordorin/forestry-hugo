@@ -1,6 +1,10 @@
 ---
 title: Homepage
 subhead: THis is the subhead
+menu: 
+    navigation:
+    identifier: index
+    weight: 1
 
 ---
 Hello world! I'm `content/_index.md`
