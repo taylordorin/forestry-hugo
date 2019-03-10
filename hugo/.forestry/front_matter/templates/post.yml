@@ -1,7 +1,6 @@
 ---
 label: Post
 hide_body: false
-is_partial: false
 fields:
 - name: title
   label: Title
@@ -12,8 +11,8 @@ fields:
   name: label
   label: Label
 pages:
-- hugo/content/posts/example.md
 - hugo/content/something/Something test.md
 - hugo/content/posts/I am a new post.md
 - hugo/content/posts/example.md
 - hugo/content/posts/I am a new post.md
+- hugo/content/posts/example.md
